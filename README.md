@@ -1,1 +1,1 @@
-# saample-repo
+this is my sample repsitory
